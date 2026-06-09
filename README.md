@@ -6,7 +6,7 @@ Simulação de infraestrutura de rede para instituição de ensino, desenvolvida
 
 ## 🔍 Visão Geral
 
-Este projeto simula a infraestrutura de rede de uma escola, contemplando:
+Projeto da infraestrutura de rede de uma escola, contemplando:
 
 - Separação lógica de usuários por VLANs (Alunos, Administrativo, Visitantes e Servidores)
 - Roteamento inter-VLAN via Switch Core Layer 3 (Cisco 3560-24PS)
@@ -23,7 +23,7 @@ Este projeto simula a infraestrutura de rede de uma escola, contemplando:
 
 ### Roteadores
 
-- **GATEWAY PADRÃO**
+- GATEWAY PADRÃO
   - Modelo: Cisco 2911
   - Função: Roteador de borda, NAT/PAT, gateway da rede interna
   - Interface WAN: GigabitEthernet0/0 — `200.0.1.2/30`
