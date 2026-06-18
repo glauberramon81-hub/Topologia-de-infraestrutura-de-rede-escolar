@@ -249,10 +249,20 @@ Todos os clientes recebem `10.0.40.2` como DNS server via DHCP, permitindo a res
 
 ## 🧪 Alguns dos testes realizados
 
-### 1. Verificar configuração de IP nos hosts
-### 2. Testar conectividade básica (ping)
-### 3. Testar acesso Web
-### 4. Verificar traduções NAT
-### 5. Verificar VLANs no Switch Core
-### 6. Verificar tabela de roteamento
-
+### 1. Verificar configuração de IP nos hosts:
+![Teste1](Projeto/Teste1.1)
+![Teste1](Projeto/Teste1.2)
+![Teste1](Projeto/Teste1.3)
+### 2. Testar conectividade básica (ping):
+![Teste2](Projeto/Teste2.1)
+![Teste2](Projeto/Teste2.2)
+### 3. Testar acesso Web:
+![Teste3](Projeto/Teste3.1)
+![Teste3](Projeto/Teste3.2)
+### 4. Verificar traduções NAT:
+![Teste4](Projeto/Teste4.1)
+### 5. Verificar VLANs no Switch Core:
+![Teste5](Projeto/Teste5.1)
+### 6. Verificar tabela de roteamento:
+![Teste6](Projeto/Teste6.1)
+![Teste6](Projeto/Teste6.2)
