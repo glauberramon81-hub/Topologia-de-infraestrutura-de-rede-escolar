@@ -250,8 +250,11 @@ Todos os clientes recebem `10.0.40.2` como DNS server via DHCP, permitindo a res
 ## 🧪 Alguns dos testes realizados
 
 ### 1. Verificar configuração de IP nos hosts:
+### Teste 1.1
 ![Teste1](Projeto/Teste1.1.PNG)
+### Teste 1.2
 ![Teste1](Projeto/Teste1.2.PNG)
+### Teste 1.3
 ![Teste1](Projeto/Teste1.3.PNG)
 ### 2. Testar conectividade básica (ping):
 ![Teste2](Projeto/Teste2.1.PNG)
