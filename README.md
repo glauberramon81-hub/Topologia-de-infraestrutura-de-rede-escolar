@@ -1,4 +1,4 @@
-# 🏫 Rede Escolar — Cisco Packet Tracer
+# 🏫 Projeto final de uma Rede Escolar feito no programa Cisco Packet Tracer
 
 Simulação de infraestrutura de rede para instituição de ensino, desenvolvida como atividade extensionista. O projeto modela um ambiente real com segmentação por VLANs, roteamento inter-VLAN, DHCP centralizado, DNS interno, acesso Wi-Fi segmentado e saída para internet via NAT/PAT.
 
