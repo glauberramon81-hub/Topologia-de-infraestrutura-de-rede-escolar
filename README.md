@@ -250,19 +250,19 @@ Todos os clientes recebem `10.0.40.2` como DNS server via DHCP, permitindo a res
 ## 🧪 Alguns dos testes realizados
 
 ### 1. Verificar configuração de IP nos hosts:
-![Teste1](Projeto/Teste1.1)
-![Teste1](Projeto/Teste1.2)
-![Teste1](Projeto/Teste1.3)
+![Teste1](Projeto/Teste1.1.PNG)
+![Teste1](Projeto/Teste1.2.PNG)
+![Teste1](Projeto/Teste1.3.PNG)
 ### 2. Testar conectividade básica (ping):
-![Teste2](Projeto/Teste2.1)
-![Teste2](Projeto/Teste2.2)
+![Teste2](Projeto/Teste2.1.PNG)
+![Teste2](Projeto/Teste2.2.PNG)
 ### 3. Testar acesso Web:
-![Teste3](Projeto/Teste3.1)
-![Teste3](Projeto/Teste3.2)
+![Teste3](Projeto/Teste3.1.PNG)
+![Teste3](Projeto/Teste3.2.PNG)
 ### 4. Verificar traduções NAT:
-![Teste4](Projeto/Teste4.1)
+![Teste4](Projeto/Teste4.1.PNG)
 ### 5. Verificar VLANs no Switch Core:
-![Teste5](Projeto/Teste5.1)
+![Teste5](Projeto/Teste5.1.PNG)
 ### 6. Verificar tabela de roteamento:
-![Teste6](Projeto/Teste6.1)
-![Teste6](Projeto/Teste6.2)
+![Teste6](Projeto/Teste6.1.PNG)
+![Teste6](Projeto/Teste6.2.PNG)
