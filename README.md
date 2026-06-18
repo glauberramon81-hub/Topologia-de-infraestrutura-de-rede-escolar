@@ -17,8 +17,8 @@ Projeto da infraestrutura de rede de uma escola, contemplando:
 
 ---
 
-## 🗺️ Topologia
-
+## 🗺️ Topologia da Rede
+(Projeto/Topologia.PNG)
 ## 🖥️ Dispositivos
 
 ### Roteadores
