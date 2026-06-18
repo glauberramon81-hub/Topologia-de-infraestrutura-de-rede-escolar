@@ -1,6 +1,6 @@
 # 🏫 Projeto final de uma Rede Escolar feito no programa Cisco Packet Tracer
 
-O projeto simula a infraestrutura de rede de uma instituição de ensino. O projeto modela um ambiente real com segmentação por VLANs, roteamento inter-VLAN, DHCP centralizado, DNS interno, acesso Wi-Fi segmentado e saída para internet via NAT/PAT.
+O projeto simula a infraestrutura de rede de uma instituição de ensino, em que foi modelado um ambiente real com segmentação por VLANs, roteamento inter-VLAN, DHCP centralizado, DNS interno, acesso Wi-Fi segmentado e saída para internet via NAT/PAT.
 
 ---
 
