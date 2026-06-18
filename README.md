@@ -1,6 +1,6 @@
 # 🏫 Projeto final de uma Rede Escolar feito no programa Cisco Packet Tracer
 
-Simulação de infraestrutura de rede para instituição de ensino, desenvolvida como atividade extensionista. O projeto modela um ambiente real com segmentação por VLANs, roteamento inter-VLAN, DHCP centralizado, DNS interno, acesso Wi-Fi segmentado e saída para internet via NAT/PAT.
+Atividade Extensionista 2 do curso Tecnolólogo em Redes de Computadores. Simulação da infraestrutura de rede para instituição de ensino. O projeto modela um ambiente real com segmentação por VLANs, roteamento inter-VLAN, DHCP centralizado, DNS interno, acesso Wi-Fi segmentado e saída para internet via NAT/PAT.
 
 ---
 
