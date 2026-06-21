@@ -1,6 +1,6 @@
 # 🏫 Projeto final de uma Rede Escolar feito no programa Cisco Packet Tracer
 
-O projeto simula a infraestrutura de rede de uma instituição de ensino, em que foi modelado um ambiente real com segmentação por VLANs, roteamento inter-VLAN, DHCP centralizado, DNS interno, acesso Wi-Fi segmentado e saída para internet via NAT/PAT.
+O projeto tem como objetivo atualizar a infraestrutura de rede da Escola Municipal Reginaldo Ferreira Neto, localizada no Município de Natal/RN, em que foi modelado um ambiente real com segmentação por VLANs, roteamento inter-VLAN, DHCP centralizado, DNS interno, acesso Wi-Fi segmentado e saída para internet via NAT/PAT.
 
 ---
 
